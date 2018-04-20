@@ -30,3 +30,5 @@ Things you may want to cover:
 This is the first application for the
 [*Ruby on Rails Tutorial*](https://railstutorial.jp/)
 by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
+
+readme_branch
